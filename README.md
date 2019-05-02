@@ -8,4 +8,4 @@ Sox win 2018 World Series!
 
 Spring 2019 - Bad Start for the Sox
 
-#Tyler is pretty awesome!
+# Tyler is pretty awesome!
