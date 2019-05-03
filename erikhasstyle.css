@@ -1,6 +1,9 @@
 /* Erik Has Style */
 
-body { background-color: #eee; }
+body {
+	background-color: #eee;
+	font-family: "Verdana, Arial";
+}
 
 p {
 	text-align: left;
