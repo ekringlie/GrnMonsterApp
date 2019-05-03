@@ -1,3 +1,8 @@
 /* Erik Has Style */
 
 body { background-color: #eee; }
+
+p {
+	text-align: left;
+	color: #666;
+}
